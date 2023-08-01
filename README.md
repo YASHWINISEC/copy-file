@@ -38,6 +38,8 @@ print("The content that has been copied to the new file is",content)
 
 ### OUTPUT:
 ![Alt text](output.png)
+![Alt text](<OUTPUT 2.png>)
+![Alt text](OUTPUT1.png).
 
 
 ## RESULT:
